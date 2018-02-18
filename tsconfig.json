@@ -6,6 +6,7 @@
     "noImplicitReturns": true,
     "outFile": "dist/index.js",
     "sourceMap": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "target": "es5"
   }
 }
