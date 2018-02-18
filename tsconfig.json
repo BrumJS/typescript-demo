@@ -5,6 +5,7 @@
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "outFile": "dist/index.js",
-    "sourceMap": true
+    "sourceMap": true,
+    "strictNullChecks": true
   }
 }
